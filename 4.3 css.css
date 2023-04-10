@@ -1,0 +1,35 @@
+
+
+#a { 
+  width:520px;
+  border: 5px solid black;
+  padding:20px 40px;
+  margin:0 auto;
+  background-color: darkgreen;
+  background-image: linear-gradient(to bottom, deepgreen,white);
+}
+
+#b {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+
+#c {
+  width: 200px;
+  height: 100px;
+  float: right;
+  margin-left: 20px;
+}
+
+#d {
+  width: 200px;
+  height: 100px;
+  float: right;
+  margin-left: 20px;
+}
+
+#e {
+  text-align: center;
+}

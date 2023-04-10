@@ -1,0 +1,218 @@
+
+body{
+  background-color: rgb(106, 130, 102);
+}
+
+.a{
+  width: 3658px; 
+  height: 1200px; 
+  display: block;
+  margin: auto;
+  margin-top: 250px;
+}
+
+.list{
+  font-size: 50px;
+  font-family: 'Gaegu', cursive;
+  position: relative;
+  left: -1000px;
+  top: 100px;
+  margin: auto;
+  width: 1500px;
+  height: 100px;
+  
+}
+a:hover{
+  background-color: rgb(255, 236, 23);
+}
+a:active{
+  background-color: rgb(0, 73, 9);
+}
+a:visited{
+  color: white;
+}
+
+.song{
+  position: relative;
+  margin: auto;
+  float: right;
+
+  top: 20px;
+  right: 500px;
+
+  width: 200px;
+  height: 80px;
+}
+
+.p{
+  position: relative;
+  margin: auto;
+  float: right;
+
+  right: 60px;
+  top: 8px;
+  
+  width: 80px;
+  height: 80px;
+}
+
+.box1{
+  border: 8px double rgb(0, 62, 26);
+  width: 1000px;
+  height: 1800px;
+  position: relative;
+  left: -1330px;
+  top: 200px;
+  margin: auto;
+  border-radius: 300px;
+  
+}
+
+.b{
+  position: relative;
+  padding: 107px;
+  width: 800px;
+  height: 900px;
+  border-radius: 30%;
+
+}
+
+.c{
+  position: relative;
+  top:-150px;
+  padding-left: 194px;
+  font-size: 120px;
+  font-family: 'Gaegu', cursive;
+}
+.d{
+  position: relative;
+  top:-200px;
+  padding-left: 240px;
+  font-size: 110px;
+  font-family: 'Gaegu', cursive;
+}
+
+.d2{
+  position: relative;
+  top:-300px;
+  padding-left: 194px;
+  font-size: 110px;
+  font-family: 'Gaegu', cursive;
+}
+
+.find{
+  font-size: 55px;
+  box-shadow: 10px 10px 10px rgb(0, 62, 26);
+  border-radius: 30px;
+  
+  top:300px;
+  left: 400px;
+
+  height: 100px;
+  width: 700px;
+
+  padding: 1px;
+  position: relative;
+  margin: auto;
+}
+
+
+.box2{
+  width: 2500px;
+  height: 1000px;
+  
+  left: 730px;
+  top:-1550px;
+
+  position: relative;
+  margin: auto;
+
+  font-size: 65px;
+  font-family:'Gowun Dodum', sans-serif;
+}
+
+.a3{
+  width: 650px;
+  height: 619px;
+  padding: 20px;
+  float: left;
+}
+.a3-1{
+  position: relative;
+  float: left;
+  left: -600px;
+  top: 590px;
+}
+
+.a1{
+  width: 650px;
+  height: 619px;
+  
+  padding: 20px;
+
+  position: relative;
+  float: left;
+  left: -500px;
+}
+
+.a1-1{
+  position: relative;
+  float: left;
+  left: -1090px;
+  top: 590px;
+}
+
+
+.a2{
+  width: 650px;
+  height: 615px;
+
+  padding: 20px;
+
+  position: relative;
+  float: left;
+  left: 1520px;
+  top: -657px
+}
+.a2-1{
+  position: relative;
+  float: left;
+  left: 963px;
+  top: -70px;
+
+}
+
+.end{
+  border-bottom: 1px solid darkgreen;
+  font-size: 50px;
+  width: 2500px;
+  height: 100px;
+
+  left: 0px;
+  top:-1050px;
+
+  position: relative;
+  float: left;
+  margin: auto;
+  padding-bottom: 1px;
+
+}
+.end2{
+  font-size: 50px;
+  width: 2500px;
+  height: 100px;
+
+  left: 0px;
+  top:-1050px;
+
+  position: relative;
+  float: left;
+  margin: auto;
+  padding-top: 2px ;
+}
+.e-1{
+  position: relative;
+  float:right;
+}
+
+
