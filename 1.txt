@@ -1,0 +1,60 @@
+박스 안에서 유연하게 배치하는 것
+
+float
+이미지를 감싸면서 배치하는 
+
+중심축 설정
+display : flex
+
+flex-direction : row-reverse ;
+                        col
+                        warp (nowrap 기본)
+
+reverse 위에서 아래/ 아래에서 위
+(아래에서 차곡차곡!!!!!!!) 
+
+배치
+
+flex- 
+(컨텐츠는 두고 차곡차곡)
+start
+end
+
+center;
+
+space-
+around 사이 공간 
+evenly 똑같은 공간 
+between 화면 공간을 맞추어주고 컨텐츠 가운데
+ 
+중심축에서 아이템 배치 
+
+justify-content : space-between 
+
+
+반대쪽에서 아이템들을 어떻게 할 것인지
+
+
+
+aline- item : center (baseline,
+
+aline - content : space-between;
+(center,
+중간 아이템을 기준으로
+
+Item 속성값들
+
+
+컨테이너의 사이즈가 달라졌을 때 
+flex-grow: 0px
+
+flex - shrink 점점 작아졌을 때 어떻게
+
+
+공간을 얼마나 차지할 수 있을지 명확히 할려주는 
+flex - basis : 
+
+
+아이템 별로 아이템 정렬
+
+aline - self :
