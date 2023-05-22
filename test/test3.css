@@ -1,0 +1,38 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.body{
+  width: 100vw;
+  height: 100vh;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header{
+  height: 30%;
+  width: auto;
+  background-color: black;
+}
+
+.box{
+  width: 10%;
+  height: 10%;
+  background-color: green;
+}
+
+.box2{
+  width: 10%;
+  height: 10%;
+  background-color: pink;
+}
+
+.box3s{
+  width: 10%;
+  height: 10%;
+  background-color: skyblue;
+}
+

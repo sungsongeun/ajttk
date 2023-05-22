@@ -1,0 +1,54 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.one{
+  display: flex;
+  justify-content:space-between;
+  align-items:flex-start;
+}
+
+.box{
+  width: 30%;
+  height: 10%;
+  font-size: 30px;
+  margin: 20px;
+  margin-left: 30px;
+}
+
+.two{
+  display: flex;
+  justify-content: flex-start;
+  align-items:
+  
+}
+
+.box2{
+  width: 5%;
+  height: 5%;
+  
+}
+
+.box3{
+  width: 5%;
+  height: 5%;
+  
+}
+.box4{
+  width: 5%;
+  height: 5%;
+  
+}
+.box5{
+  width: 5%;
+  height: 5%;
+  
+}
