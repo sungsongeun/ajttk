@@ -1,0 +1,16 @@
+.rating{
+  height: 60px;
+  width: 340px;
+  background-image: url(stars.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.stars{
+  height: 60px;
+  width: 340px;
+  background-image: url(stars.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+
+}
