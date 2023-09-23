@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../CSS_SampleCode"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../4.3과제"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "멋사"
+	}
+}
